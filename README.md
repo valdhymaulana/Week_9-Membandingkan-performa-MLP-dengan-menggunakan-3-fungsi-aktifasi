@@ -1,0 +1,1 @@
+# Week_9-Membandingkan-performa-MLP-dengan-menggunakan-3-fungsi-aktifasi
